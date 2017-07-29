@@ -23,7 +23,15 @@ h1 {
 	font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 	font-size:18px;
 	margin:20px;
+	font-weight:100;
+	text-align:center;
 }
+
+.navbar-right li {
+	float:none;
+	display:inline-block;
+}
+
 
 hr {
 	height: 2px;
@@ -53,6 +61,12 @@ form label {
 	background-color:#4aaaa5;
 	border:none;
 	width:25%;
+}
+
+#profile-image{
+	float:left;
+/*	max-height: 50%;
+	max-width: 50%;*/
 }
 
 h3 {
