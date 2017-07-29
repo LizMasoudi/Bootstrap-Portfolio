@@ -76,6 +76,25 @@ h3 {
 	text-align:center;
 }
 
+.portfolio-image {
+	float: left;
+    width: 100%;
+    height:auto;
+    overflow: hidden;
+}
+
+.portfolio-image-text {
+	float: left;
+	width: 100%;
+	padding-top: 20px;
+	padding-bottom:20px;
+	position: relative;
+	top:-80px;
+	background-color: #4aaaa5;
+	color: #ffffff;
+	text-align: center;
+}
+
 footer {
 	background-color: #666666;
 	color: #d3d3d3;
